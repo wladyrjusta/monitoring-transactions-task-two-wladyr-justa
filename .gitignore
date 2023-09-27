@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+
+.vscode/
+__pycache__/
+monitoring_transactions/
+.venv/
