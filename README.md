@@ -83,8 +83,8 @@
 <p>O aplicativo estará acessível em:</p>
 
 <ul>
-    <li>Página com gráficos da "checkout_1": <a href="http://localhost:5000/generate_graphic/checkout_1">http://localhost:5000/generate_graphic/checkout_1</a></li>
-    <li>Página com gráficos da "checkout_2": <a href="http://localhost:5000/generate_graphic/checkout_2">http://localhost:5000/generate_graphic/checkout_2</a></li>
+    <li>Página com gráficos da "transactions-anomalies-1": <a href="http://localhost:5000/generate_graphic/transactions-anomalies-1">http://localhost:5000/generate_graphic/transactions-anomalies-1</a></li>
+    <li>Página com gráficos da "transactions-anomalies-2": <a href="http://localhost:5000/generate_graphic/transactions-anomalies-2">http://localhost:5000/generate_graphic/transactions-anomalies-1</a></li>
 </ul>
 
 <h2>Explorando os Dados</h2>
