@@ -56,13 +56,13 @@
     <li>Crie o contêiner Docker com o seguinte comando:</li>
 </ol>
 
-<pre><code>docker build -t sales-monitoring-app .</code></pre>
+<pre><code>docker build -t transactions_monitoring .</code></pre>
 
 <ol>
     <li>Execute o contêiner Docker:</li>
 </ol>
 
-<pre><code>docker run -d -p 3306:3306 --name sales-monitoring-container sales-monitoring-app</code></pre>
+<pre><code>docker run -d -p 3306:3306 --name transactions_monitoring-container transactions_monitoring</code></pre>
 
 <p>Isso iniciará o servidor MySQL em um contêiner Docker. O servidor MySQL será acessível na porta 3306.</p>
 
